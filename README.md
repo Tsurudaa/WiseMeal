@@ -7,7 +7,7 @@
 <h3>Etapa 1 do projeto WiseMeal</h3>
 <ul>
   <li>Protótipo de Telas</li>
-  https://www.figma.com/file/qDY5FzXEuK1PvlzsDegU2J/App-WiseMeal?type=design&node-id=0%3A1&mode=design&t=uyxxpZfR4TVtm6ab-1 <--- Prototipo de telas Figma
+  https://www.figma.com/file/qDY5FzXEuK1PvlzsDegU2J/App-WiseMeal?type=design&node-id=0%3A1&mode=design&t=uyxxpZfR4TVtm6ab-1
   <li>Portfólio do Projeto</li>
   https://sites.google.com/edu.unifil.br/wisemeal/p%C3%A1gina-inicial
 </ul>
